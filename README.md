@@ -1,6 +1,10 @@
 # Banner for GSoC GSoD Jenkins
 
-## Logos and rules for using logos:
+## Logos and rules for using logos
+
+Except as otherwise noted, the content of this repository is licensed under the Creative Commons Attribution 4.0 License.
+
+Individual Logos are under their own license.
 
 ### Jenkins
 
