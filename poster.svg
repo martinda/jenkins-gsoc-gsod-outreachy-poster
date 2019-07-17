@@ -14,7 +14,7 @@
    viewBox="0 0 1793.5269 1235.9778"
    version="1.1"
    id="svg4229"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="poster.svg">
   <metadata
      id="metadata4282">
@@ -38,18 +38,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1047"
      id="namedview4280"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.36"
-     inkscape:cx="1104.6044"
-     inkscape:cy="617.98891"
+     inkscape:zoom="0.64549095"
+     inkscape:cx="888.71569"
+     inkscape:cy="471.10064"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="120"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4229" />
   <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
@@ -552,55 +552,7 @@
       </g>
     </g>
   </g>
-  <flowRoot
-     transform="translate(587.69421,934.81826)"
-     xml:space="preserve"
-     id="flowRoot9510"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-       id="flowRegion9512"><rect
-         id="rect9514"
-         width="745.16132"
-         height="83.870964"
-         x="10.483871"
-         y="556.93549" /></flowRegion><flowPara
-       id="flowPara9516"
-       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  <flowRoot
-     transform="translate(587.69421,934.81826)"
-     xml:space="preserve"
-     id="flowRoot9669"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-       id="flowRegion9671"><rect
-         id="rect9673"
-         width="746"
-         height="179"
-         x="10"
-         y="742" /></flowRegion><flowPara
-       id="flowPara9675"
-       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot9677"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(586.69424,907.25511)"><flowRegion
-       id="flowRegion9679"><rect
-         id="rect9681"
-         width="675.88232"
-         height="228.88237"
-         x="11"
-         y="742" /></flowRegion><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="flowPara5581"> </flowPara></flowRoot>  <flowRoot
-     transform="translate(587.69421,934.81826)"
-     xml:space="preserve"
-     id="flowRoot8901"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-       id="flowRegion8903"><rect
-         id="rect8905"
-         width="6.4102564"
-         height="41.025642"
-         x="741.02563"
-         y="423.33334" /></flowRegion><flowPara
-       id="flowPara8907"
-       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  <g
+  <g
      transform="translate(92.778044,407.1888)"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
      id="Page-1">
@@ -835,4 +787,50 @@
        inkscape:transform-center-x="1130.3278"
        inkscape:transform-center-y="-344.95363" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:37.49999619px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="450.23865"
+     y="316.61945"
+     id="text4288"
+     sodipodi:linespacing="1000%"><tspan
+       sodipodi:role="line"
+       id="tspan4290"
+       x="450.23865"
+       y="316.61945"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px">The Jenkins Project, https://jenkins.io/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87163353px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="88.823135"
+     y="1195.8142"
+     id="text4288-9"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       x="88.823135"
+       y="1195.8142"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87163353px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px"
+       id="tspan4340">Google Summer of Code logo by Google, licensed under CC BY-NC-ND 3.0, unmodified,</tspan><tspan
+       sodipodi:role="line"
+       x="88.823135"
+       y="1214.6858"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87163353px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px"
+       id="tspan4348">Read the license at https://creativecommons.org/licenses/by-nc-nd/3.0/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87163353px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="929.36688"
+     y="1195.8142"
+     id="text4288-9-4"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       x="929.36688"
+       y="1195.8142"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87163353px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px"
+       id="tspan4350-2">Season of Docs logo by Google, licensed under CC BY-NC-ND 4.0, unmodified,</tspan><tspan
+       sodipodi:role="line"
+       x="929.36688"
+       y="1214.6858"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87163353px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px"
+       id="tspan4348-0">Read the licence at https://creativecommons.org/licenses/by-nc-nd/4.0/</tspan></text>
 </svg>
