@@ -8,6 +8,9 @@ Rule: You must include an attribution to the Jenkins project.
 
 * Link: https://jenkins.io/artwork/
 
+### Outreachy
+
+* Link: https://www.outreachy.org/promote/
 
 ### Google
 
