@@ -22,3 +22,7 @@ Rule: If you want to use the logo in a presentation, that's great, provided you 
 
 * Google Summer of Code: https://developers.google.com/open-source/gsoc/resources/marketing
 * Google Season of Docs: https://developers.google.com/season-of-docs/docs/press
+
+### Hacktoberfest
+
+* Event kit and rules: https://hacktoberfest.digitalocean.com/eventkit
